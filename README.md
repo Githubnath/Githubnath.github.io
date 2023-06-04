@@ -1,42 +1,33 @@
-# Dev Landing Page
+# Personal Management System Landing Page
 
-Minimal landing page for developers.
+Your central point for managing personal data.
 
-Developers don't talk much. Their code does all the talking. So here's a minimal landing page for developers.
+## Easy to Use
+Intuitive and user-friendly. PMS has been designed to be clear and handy so that everything is organized and divided into the proper categories and subsections.
 
-## Why? [![start with why](https://img.shields.io/badge/start%20with-why%3F-brightgreen.svg?style=flat)](http://www.ted.com/talks/simon_sinek_how_great_leaders_inspire_action)
+## Freedom of mind
+PMS allows to keep control of schedules, notes, contacts, to-do lists and even manage documentations and images. Say goodbye to sticky notes and endless search for lost document.
 
-I wanted a dev landing page to showcase everything I do online and I wanted it to be minimal and right to the point rather beautiful and hefty. And I think most of the devs out there would want the same.
+## Powered by Symfony and Typescript
+The core of the project relies on the Symfony and Typescript which makes it easier to maintain, extend and optimize.
 
-So I sat down one night and created this **Dev Landing Page**. Feel free to fork, clone, play around and make this your own.
+<img src="https://github.com/Githubnath/Personal-management-system/blob/main/src/assets/static/images/preview4.png">
 
-## Themes
+<img src="https://github.com/Githubnath/Personal-management-system/blob/main/src/assets/static/images/preview3.png">
 
-Dev Landing Page comes in 9 **material themes**.
+<img src="https://github.com/Githubnath/Personal-management-system/blob/main/src/assets/static/images/preview1.png">
 
-![9 Material Themes](https://image.ibb.co/jJVKCn/dev_landing_page_themes.jpg)
+<img src="https://github.com/Githubnath/Personal-management-system/blob/main/src/assets/static/images/preview2.png">
 
-If none of these themes fit within your taste, it's quite easy to customize and create your own too. 
 
-## GitHub Pages
+## Personal Management System (PMS) is a web-app tool designed to organize the essentials of everyday life, everything from a simple to-do list and notes to file organizers. No more thinking about unhandled pending issues, no more sticky notes on the desk, or tones of files named asdfgasd.txt and furthermore no more searching for physicals documents in folders.
 
-GitHub makes it easy to create personal websites. Follow this link - [GitHub Pages](https://pages.github.com/) to know how or follow the steps below.
+Simplicity, transparency, flexibility and expandability - designed for personal use.
 
-If you already have a GitHub profile (obviously)
+## Author
+<img src="https://github.com/Githubnath/personal-management-system/blob/main/public/logo-small.png> 
 
-* Create a new repo with the name `{username}.github.io`
-* Clone/Fork this repo and copy the files to your newly created repo
-* Customize your name, links and everything else for your landing page
-* `git push`
-
-Voila! Your site should be live at `https://{username}.github.io`
-
-Here's my **Dev Landing Page** - [Dinesh Pandiyan - v1](https://v1.dineshpandiyan.com/)
-
-### Custom Domain
-
-If you want to make your new landing page available under a domain like `{username}.com` you can get started here - [Setting up a custom domain](https://help.github.com/articles/quick-start-setting-up-a-custom-domain/).
 
 ## License
 
-MIT © Dinesh Pandiyan
+MIT © Emenike Nathaniel
