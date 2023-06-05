@@ -1,4 +1,4 @@
-# Personal Management System Landing Page
+# Personal Management System 
 
 Your central point for managing personal data.
 
