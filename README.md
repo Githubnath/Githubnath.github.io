@@ -20,12 +20,14 @@ The core of the project relies on the Symfony and Typescript which makes it easi
 <img src="https://github.com/Githubnath/Personal-management-system/blob/main/src/assets/static/images/preview2.png">
 
 
-## Personal Management System (PMS) is a web-app tool designed to organize the essentials of everyday life, everything from a simple to-do list and notes to file organizers. No more thinking about unhandled pending issues, no more sticky notes on the desk, or tones of files named asdfgasd.txt and furthermore no more searching for physicals documents in folders.
+# Personal Management System (PMS)
+ is a web-app tool designed to organize the essentials of everyday life, everything from a simple to-do list and notes to file organizers. No more thinking about unhandled pending issues, no more sticky notes on the desk, or tones of files named asdfgasd.txt and furthermore no more searching for physicals documents in folders.
 
 Simplicity, transparency, flexibility and expandability - designed for personal use.
 
 ## Author
-<img src="https://github.com/Githubnath/personal-management-system/blob/main/public/logo-small.png> 
+
+<img src="https://github.com/Githubnath/Personal-management-system/blob/main/src/assets/static/images/githubnath_avatar.jpg"> 
 
 
 ## License
