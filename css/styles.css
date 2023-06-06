@@ -73,3 +73,10 @@ main > .tagline {
 	width: 2.65rem;
 	height: 2.65rem;
 }
+
+label {
+  color: #B4886B;
+  font-weight: bold;
+  display: block;
+} 
+label:after { content: ": " }
